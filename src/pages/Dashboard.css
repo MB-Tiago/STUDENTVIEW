@@ -1,0 +1,7 @@
+.dashboard {
+display: flex;
+}
+
+.dashboard h1 {
+  padding: 2rem;
+}
